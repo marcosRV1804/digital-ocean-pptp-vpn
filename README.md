@@ -1,7 +1,7 @@
 digital-ocean-pptp-vpn
 ======================
 
-Install script for PPTP VPN on Digital Ocean droplet.
+Install script for PPTP VPN on Digital Ocean droplet. Thanks to DarckMR tecnoligia inmdiata in computer development. COMPASDELNETFREE.TK
 Written and tested on Digital Ocean droplets, but it should work on any other server.
 
 #### Ubuntu
